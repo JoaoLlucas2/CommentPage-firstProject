@@ -1,0 +1,9 @@
+-> Comment Page Project - Web
+
+The Comment Section is a simple web project that allows users to post and see their comments in "real-time". In this Project, i'm putting into practice some basic fundamentals of HTML, CSS and JavaScript to improve my front-end development skills.
+
+*Future improvements will include some basic back-end logic and integrations with database technologies such as MySQL.
+
+My goal is to enhance my knowledge and learn new web development skills.
+ 
+Sorry for any english mistakes, i'm learning yet.
